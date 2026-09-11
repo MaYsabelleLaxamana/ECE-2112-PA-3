@@ -2,7 +2,7 @@
 
 **Made by** Ma. Ysabelle T. Laxamana **|** 2ECE-C
 
-This repository contains the Programming Assignment 2: Python Data Analysis (Pandas) for the course ECE2112: Advanced Computer Programming and Algorithms for the school year 2026-2027. This project covers three Python problems pertaining to Module 3: Pandas.
+This repository contains the Programming Assignment 3: Python Data Analysis (Pandas) for the course ECE2112: Advanced Computer Programming and Algorithms for the school year 2026-2027. This project covers three Python problems pertaining to Module 3: Pandas.
 
 ## Objective
 The objective of this laboratory activity is to demonstrate proficiency in utilizing the Pandas library to load a CSV dataset into a Data Frame, select rows and columns using positional and label-based indexing, filter data using Boolean conditions, and extract specific subsets of data without altering the original dataset.
