@@ -70,4 +70,4 @@ To access the full Python code for Programming Assignment 3, download the file f
 **README file Version History:**
 
 * **September 5, 2026** - Initial README output uploaded.
-* **September 11, 2026** - Corrected a minor typographical error in the readme file.
+* **September 11, 2026** - Corrected a minor typographical error in the README file.
